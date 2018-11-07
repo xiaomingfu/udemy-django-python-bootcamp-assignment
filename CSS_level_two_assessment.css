@@ -1,0 +1,36 @@
+
+h1{
+    font-family: 'Chakra Petch', sans-serif;
+    text-align:center;
+}
+
+table{
+    margin:0 auto;
+
+}
+
+td{
+    height:300px;
+    width:150px;
+    border:6px solid white;
+
+}
+
+#one{
+    background-color: #FE64A3;
+}
+#two{
+    background-color: #CEE7E6;
+
+}
+#three{
+    background-color:#9A9A9A;
+
+}
+#four{
+    background-color:#935FA7;
+
+}
+#five{
+    background-color:#000000;
+}
